@@ -4,9 +4,7 @@
 
 # Set environmental variables for your credentials and region. so that there is not need to hard-code them into the config file.
 provider "aws" {}
-    #region = "us-east-1"
-    #access_key = "AKIA5BEK5N4TEBXQVLOH"
-    #secret_key = "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"
+    
 
 #variable "subnet_cidr_block" {
     #description = "subnet cidr block"
